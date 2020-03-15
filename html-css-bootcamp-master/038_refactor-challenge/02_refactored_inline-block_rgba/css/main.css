@@ -6,7 +6,7 @@ body {
     background-attachment: fixed;
     background-size: cover;
     /* BEFORE REFACTOR: */
-    /*background: url(img/fog.jpg) no-repeat top center fixed;*/
+    /*background: url(img/fog.img) no-repeat top center fixed;*/
     /*background-size: cover;*/
 }
 
