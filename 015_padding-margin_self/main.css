@@ -1,0 +1,31 @@
+div {
+    width: 100px;
+    height: 100px;
+    border: 1px solid red;
+    border-radius: 100%;
+    display: inline-block;
+    /*display: inline; Displays inline, but might smush images together. In that case, use inline-block*/
+    /*display: block; Displays it in block level*/
+    /*display: none; Does not display elements*/
+    /*background-image: url("../000_img/pup.jpg");*/
+    /*background-size: cover;*/
+    /*background-repeat: no-repeat;*/
+    /*Size cover makes sure puppy entirely within the border, repeat norepeat makes sure if border is too big, that it will not start repeating image within.*/
+}
+
+img {
+    border: 10px groove orangered;
+    border-radius: 100%;
+    padding: 20px;
+    margin: 40px;
+/*    Padding was used to separate image from border, Margin used to add space between each image+padding+border*/
+}
+.dogone {
+    border: 10px dashed orangered;
+}
+.dogtwo {
+    border: 10px dotted orangered;
+}
+.dogthree{
+    border: 10px double orangered;
+}
