@@ -1,0 +1,12 @@
+div{
+    width: 1000px;
+    height: 1000px;
+    background-color: #0ebfe9;
+    background-image: url("https://cdn.discordapp.com/attachments/246848792740102157/689195793940480135/79ecff5fb99969ddcc77281db54038808138c9aa.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 20px groove red;
+    border-radius: 20%;
+
+
+}

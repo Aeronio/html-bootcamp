@@ -2,6 +2,8 @@
     border: 2px dashed hotpink;
 }
 
+/*This puts a hot pink element around every element on the page*/
+
 div {
     height: 200px;
     border: 5px solid black;

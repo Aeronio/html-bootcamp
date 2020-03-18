@@ -7,3 +7,5 @@ body {
 div p {
     color: red;
 }
+
+/*Read right to left: any p tag within a div */

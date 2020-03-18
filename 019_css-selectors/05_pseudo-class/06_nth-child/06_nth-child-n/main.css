@@ -5,3 +5,5 @@ body {
 li:nth-child(3) {
     color: red;
 }
+
+/*This can be used to select certain children, denoted by the 3*/

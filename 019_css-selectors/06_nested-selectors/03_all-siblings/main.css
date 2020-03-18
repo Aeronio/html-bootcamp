@@ -7,3 +7,7 @@ body {
 div ~ p {
     color: red;
 }
+
+div ~ article {
+    color: blue;
+}

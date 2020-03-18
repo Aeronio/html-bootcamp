@@ -7,6 +7,8 @@ tr:nth-child(even) {
     background-color: rgba(128, 128, 128, 0.49);
 }
 
+/*For every table row that is the even nth child of its parent, make the background that color*/
+
 tr:nth-child(odd) {
     background-color: rgba(128, 128, 128, 0.19)
 }

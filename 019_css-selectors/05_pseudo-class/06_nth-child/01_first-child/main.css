@@ -5,3 +5,11 @@ body {
 li:first-child {
     color: red;
 }
+
+/*Any li which is the first child of its parent will be made red*/
+
+ul:first-child {
+    background-color: yellow;
+}
+
+/*This will highlight the entire first ul since it is the first child of its parent, the body tag*/

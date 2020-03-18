@@ -5,3 +5,8 @@ a {
 a:focus {
     color: red;
 }
+
+/*a:active {*/
+/*    color: red;*/
+/*}*/
+/*With a link, Active does the same thing*/

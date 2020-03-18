@@ -1,3 +1,5 @@
 article:only-child {
     color: red;
 }
+
+/*If the element has a sibling of the same type, the only-child tag will not affect it*/
