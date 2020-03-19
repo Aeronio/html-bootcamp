@@ -1,0 +1,40 @@
+html{
+    background-color: #0051A1;
+}
+
+body{
+    width: 60%;
+    height: 1000px;
+    background-color: #00C957;
+    border: 5px solid black;
+    margin: 0 auto;
+    padding: 20px;
+
+}
+
+img{
+
+    display: block;
+    margin: 0 auto;
+    border: 20px groove yellow;
+    border-radius: 50%;
+}
+
+.header1{
+
+    color: #3A5FCD;
+}
+
+.header2{
+
+    color: red;
+}
+
+#primary{
+    color: blue;
+}
+
+#secondary {
+    color: red;
+}
+
