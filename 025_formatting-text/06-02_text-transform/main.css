@@ -5,4 +5,8 @@ h1 {
     /* there are many different values to play with: */
     /*font-variant: small-caps;*/
     text-transform: uppercase;
+    /*text-transform: capitalize;*/
+
+/*    This made all letters uppercase for heading 1s*/
+/*    Capitalize makes all first letters of words capital.*/
 }

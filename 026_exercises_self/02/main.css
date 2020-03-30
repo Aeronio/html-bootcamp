@@ -1,0 +1,19 @@
+p{
+    font-family: sans-serif;
+    font-size: 3rem;
+}
+
+#first{
+    font-family: 'Playfair Display', serif;
+    font-weight: 400;
+}
+
+#second{
+    font-family: 'Playfair Display', serif;
+    font-weight: 500;
+}
+
+#third{
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+}
